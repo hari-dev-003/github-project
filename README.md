@@ -72,6 +72,8 @@ We use a branching model based on GitFlow, but simplified for our needs. The pri
 
     [optional footer]
     ```
+
+    
 - Example:
     ```
     feat: add user authentication endpoint
